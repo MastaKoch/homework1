@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* changed div class= header to just header; applied more applicable changes below.. */
+/* changed .header to just header; applied more applicable changes below.. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -21,22 +21,22 @@ h1 {
 }
 /* removed .header */
 h1 .seo {
-    color: #d9dcd6;
+    color: #f5aa09;
 }
-/* removed .header div and changed to ---> div */
-div {
+/* removed .header div and changed to ---> nav */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* removed .header div ul and changed to ----> div ul */
-div ul {
+/* removed .header div ul and changed to ----> nav ul */
+nav ul {
     list-style-type: none;
 }
-/* removed .header div ul li and changed to ---> div ul li { */
-div ul li {
+/* removed .header div ul li and changed to ---> nav ul li { */
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -85,73 +85,31 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/* combined and consolidated css classes to all have the same output. */
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* combined and consolidated css classes to all have the same output. */
+.benefit-lead h3,
+.benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* combined and consolidated css classes to all have the same output. */
+.benefit-lead img,
+.benefit-brand img,
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* combined and consolidated css classes to all have the same output. */
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,30 +118,17 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+/* combined and consolidated css classes to all have the same output. */
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* combined and consolidated css classes to all have the same output.combined and consolidated css classes to all have the same output. */
+.online-reputation-management h2, 
+.social-media-marketing h2,
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
