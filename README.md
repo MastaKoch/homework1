@@ -28,5 +28,8 @@ As you can see, I started with something simple by changing the "Seo" from the g
 
 Enough of the neon orange; let's move on to the consolidation. This, by far and away, took up the bulk of my labor.
 
+<img width="235" alt="original-css" src="https://user-images.githubusercontent.com/72670039/97046375-45a06b80-1545-11eb-913a-97eec30256ce.png">
 
 As shown above, the original CSS code is very repetitive and could definitely use some condensing. See below for results.
+
+<img width="598" alt="new-css" src="https://user-images.githubusercontent.com/72670039/97046381-4802c580-1545-11eb-890e-a2d675c3fefe.png">
