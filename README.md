@@ -15,7 +15,7 @@ Not only was I motivated to clean up the code; I wanted to take it a step furthe
 
 Spoiler alert: my finishing touch was making the "seo" in "Horiseon" neon orange. 
 
-## Screenshot of website 
+## Screenshot of Website 
 
 
 <img width="233" alt="original-logo" src="https://user-images.githubusercontent.com/72670039/97045586-fb6aba80-1543-11eb-94ec-170d4ffd351b.png">
@@ -23,3 +23,10 @@ Spoiler alert: my finishing touch was making the "seo" in "Horiseon" neon orange
 As you can see, I started with something simple by changing the "Seo" from the greyish color as shown above to a neon orange (see below).
 
 <img width="214" alt="horiseon-screenshot" src="https://user-images.githubusercontent.com/72670039/97042155-9a8cb380-153e-11eb-8a4d-7d23e3a4cd3d.png">
+
+## Major Changes
+
+Enough of the neon orange; let's move on to the consolidation. This, by far and away, took up the bulk of my labor.
+
+
+As shown above, the original CSS code is very repetitive and could definitely use some condensing. See below for results.
