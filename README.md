@@ -16,4 +16,4 @@ Not only was I motivated to clean up the code; I wanted to take it a step furthe
 Spoiler alert: my finishing touch was making the "seo" in "Horiseon" neon orange. 
 
 ## Screenshot of website 
-![Alt text](/homework1/horiseon-screenshot.jpg?raw=true "Horiseon Screenshot")
+<img width="214" alt="horiseon-screenshot" src="https://user-images.githubusercontent.com/72670039/97042155-9a8cb380-153e-11eb-8a4d-7d23e3a4cd3d.png">
