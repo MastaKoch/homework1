@@ -17,6 +17,9 @@ Spoiler alert: my finishing touch was making the "seo" in "Horiseon" neon orange
 
 ## Screenshot of website 
 
-<img width="214" alt="horiseon-screenshot" src="https://user-images.githubusercontent.com/72670039/97042155-9a8cb380-153e-11eb-8a4d-7d23e3a4cd3d.png">
 
-As you can see, I started with something simple by changing the "Seo" from the greyish color to a neon orange.
+<img width="233" alt="original-logo" src="https://user-images.githubusercontent.com/72670039/97045586-fb6aba80-1543-11eb-94ec-170d4ffd351b.png">
+
+As you can see, I started with something simple by changing the "Seo" from the greyish color as shown above to a neon orange (see below).
+
+<img width="214" alt="horiseon-screenshot" src="https://user-images.githubusercontent.com/72670039/97042155-9a8cb380-153e-11eb-8a4d-7d23e3a4cd3d.png">
