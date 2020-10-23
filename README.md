@@ -33,3 +33,5 @@ Enough of the neon orange; let's move on to the consolidation. This, by far and 
 As shown above, the original CSS code is very repetitive and could definitely use some condensing. See below for results.
 
 <img width="598" alt="new-css" src="https://user-images.githubusercontent.com/72670039/97046381-4802c580-1545-11eb-890e-a2d675c3fefe.png">
+
+Just to clarify, these two codes accomplish the same thing. The differentiating factor is the readability between the lengthy original CSS and the new-and-improved CSS code.
