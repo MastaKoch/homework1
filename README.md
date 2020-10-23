@@ -35,3 +35,11 @@ As shown above, the original CSS code is very repetitive and could definitely us
 <img width="598" alt="new-css" src="https://user-images.githubusercontent.com/72670039/97046381-4802c580-1545-11eb-890e-a2d675c3fefe.png">
 
 Just to clarify, these two codes accomplish the same thing. The differentiating factor is the readability between the lengthy original CSS and the new-and-improved CSS code.
+
+## What makes mine special?
+
+Not only did I clean up the code entirely in the HTML and CSS files, I also left it better off than how I found it. After seriously condensing code, I did make it more accessible for users while retaining the website's primary properties. 
+
+## Feel free to...
+
+Open my code in VS Code! Please examine the differences and see exactly what I am trying to convey to you. I hope you enjoy my page :)
